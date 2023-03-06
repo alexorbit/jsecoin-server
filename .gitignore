@@ -1,0 +1,15 @@
+logs/*
+data/*
+static/*
+tools/localbackup/
+credentials\.json
+\.testcredentials\.json
+node_modules/*
+misc/suppression\.json
+misc/suppression_new\.json
+misc/suppressionaddlist\.js
+modules/ethtest.js
+tools/tensorflow/*
+tools/private/*
+misc/btc-addresses\.json
+misc/eth-addresses\.json
